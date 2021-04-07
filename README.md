@@ -25,6 +25,6 @@ app.use(
   })
 );
 ```
-- used SwaggerUi to auto generate documentation
+- used SwaggerUi to auto generate documentation (vist here: [http://localhost:3030/api-documentation](http://localhost:3030/api-documentation))
 
 ![Downloaded Swagger Screenshot from Article](/image-23.png)
