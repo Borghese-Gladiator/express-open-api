@@ -19,4 +19,4 @@ app.use(
 ```
 - use SwaggerUi to auto generate documentation
 
-![Downloaded Swagger Screenshot from Article](/images/image-23.png)
+![Downloaded Swagger Screenshot from Article](/image-23.png)
